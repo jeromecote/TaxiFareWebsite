@@ -10,6 +10,8 @@ install_requirements:
 #         HEROKU COMMANDS
 # ----------------------------------
 
+APP_NAME = fairtaxi-jeromecote
+
 streamlit:
 	-@streamlit run app.py
 
